@@ -46,7 +46,7 @@ def chatter(bot, update):
 
 def main():
 
-    updater = Updater("357184034:AAGXubQIoO6eTvrofSnz2d45LrAdArH4pH4")
+    updater = Updater("AAF8D1GOEZRBbbNm0k1dGqAKtflM3uRX_QM")
   
     dp = updater.dispatcher
 
